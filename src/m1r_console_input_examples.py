@@ -5,8 +5,8 @@ This module demonstrates how to INPUT from the CONSOLE:
   -- strings.
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Victoria Szalay.
+"""  # Done: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ########################################################################
 # TODO: 2.  Read and run this program.  Then do the following problems,
